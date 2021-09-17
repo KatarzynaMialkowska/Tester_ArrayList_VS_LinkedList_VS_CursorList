@@ -50,24 +50,24 @@ make test
 
 *First step*
 - Generate a random number of times operations and random commands:
-make test_arraylist_1,
-make test_ inkedlist_1,
-make test_cursorlist_1
+ make test_arraylist_1,
+ make test_ inkedlist_1,
+ make test_cursorlist_1
 
 *Second step*
 - Generate the operation given in the argument n times and random commands:
-make test_arraylist_2,
-make test_linkedlist_2,
-make test_cursorlist_2
+ make test_arraylist_2,
+ make test_linkedlist_2,
+ make test_cursorlist_2
 
-* Third step*
+*Third step*
 - Generate generate the push operation specified in the argument 1000001 times:
-make test_arraylist_3,
-make test_linkedlist_3,
-make test_cursorlist_3
+ make test_arraylist_3,
+ make test_linkedlist_3,
+ make test_cursorlist_3
 
-* Fourth step*
+*Fourth step*
 - Generate a random number of pop operation:
-make test_arraylist_4,
-make test_linkedlist_4,
-make test_cursorlist_4
+ make test_arraylist_4,
+ make test_linkedlist_4,
+ make test_cursorlist_4
